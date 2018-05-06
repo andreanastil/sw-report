@@ -1,4 +1,3 @@
-# Οπτικοποίηση δεδομένων χορηγιών (UK) 
 ## Ανδρεάνα Στυλίδου Π2015180
 
 *Forked Software Technologies repository: https://github.com/andreanastil/sw*
@@ -6,6 +5,14 @@
 *Forked DataVisualisation repository: https://github.com/andreanastil/D3js-uk-political-donations*
 
 *Personal DataVisualisation Github Page: https://andreanastil.github.io/D3js-uk-political-donations/*
+
+# Σύνοψη (100λ)
+# Εισαγωγή (200λ)
+# Ανάλυση σχετικών έργων και εργαλείων (200λ)
+# Μέθοδος και τεχνικές ανάπτυξης (200λ)
+# Αποτελέσματα 
+# Συμπεράσματα (100λ)
+# Βιβλιογραφία και σύνδεσμοι σε σχετικές εργασίες
 
 # Παραδοτέο 1
 ## Ζητούμενα στα οποία απαιτούνται αλλαγές στο προσωπικό μας αποθετήριο
