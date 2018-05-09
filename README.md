@@ -466,26 +466,29 @@ function moveToAmounts(alpha) {
 
 ![zoom](https://user-images.githubusercontent.com/22656813/39833915-1e027436-53d4-11e8-8cfd-d1f746315873.png)
 
-*Οι λέξεις μεγεθύνονται κατά το hover από πάνω τους.
+*Οι λέξεις μεγεθύνονται κατά το hover από πάνω τους.*
 
 ![new amount](https://user-images.githubusercontent.com/22656813/39834043-76a95b86-53d4-11e8-81bd-541de7f6dc37.PNG)
-*Καινούργια επιλογή ομαδοποίησης
+*Καινούργια επιλογή ομαδοποίησης*
 
 ![byentity](https://user-images.githubusercontent.com/22656813/39834189-d94a4b7e-53d4-11e8-94a3-d3b1bef97090.PNG)
-*Καινούργιο D3 διάγραμμα σε μορφή πίτας (ομαδοποίηση by source)
+*Καινούργιο D3 διάγραμμα σε μορφή πίτας (ομαδοποίηση by source)*
 
 ![party](https://user-images.githubusercontent.com/22656813/39834105-9fc82f38-53d4-11e8-99b1-9dc5661618c3.PNG)
-*Καινούργιο D3 διάγραμμα σε μορφή πίτας (ομαδοποίηση by party)
+*Καινούργιο D3 διάγραμμα σε μορφή πίτας (ομαδοποίηση by party)*
 
 ![private](https://user-images.githubusercontent.com/22656813/39834282-1e64c2c0-53d5-11e8-830c-e4f5cf6dbcd6.PNG)
 
-*Καινούργιο D3 διάγραμμα σε μορφή πίτας (ομαδοποίηση private/public)
+*Καινούργιο D3 διάγραμμα σε μορφή πίτας (ομαδοποίηση private/public)*
 
 ![amount](https://user-images.githubusercontent.com/22656813/39834280-1e357b3c-53d5-11e8-848e-9f546fae21d8.PNG)
-*Καινούργιο D3 διάγραμμα σε μορφή πίτας (ομαδοποίηση by amount)
+*Καινούργιο D3 διάγραμμα σε μορφή πίτας (ομαδοποίηση by amount)*
 
+![credits](https://user-images.githubusercontent.com/22656813/39836687-dd4df560-53dc-11e8-8e65-7048f81f6b4b.PNG)
+*Eμφάνιση του username και της εικόνας μου στην ιστοσελίδα credits*
 
-
+![insights](https://user-images.githubusercontent.com/22656813/39835753-dc7927d4-53d9-11e8-8028-37c2295ec28e.PNG)
+*Η ιστοσελίδα μου με την οπτικοποίηση των insights*
 
 
 ## Συμπεράσματα (100λ)
