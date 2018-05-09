@@ -459,10 +459,10 @@ function moveToAmounts(alpha) {
 ## Αποτελέσματα 
 
 ![site](https://user-images.githubusercontent.com/22656813/39833840-e70afe6c-53d3-11e8-9e25-599a3b3318c6.PNG)
-*Τελική εμφάνιση ιστοσελίδας μετά την συνολική επεξεργασία
+*Τελική εμφάνιση ιστοσελίδας μετά την συνολική επεξεργασία*
 
 ![colors](https://user-images.githubusercontent.com/22656813/39833965-410c61ee-53d4-11e8-919a-5811db9f2ada.png)
-*H αλλαγή των χρωμάτων στις μπάλες με τα δεδομένα και στις παραγράφους
+*H αλλαγή των χρωμάτων στις μπάλες με τα δεδομένα και στις παραγράφους*
 
 ![zoom](https://user-images.githubusercontent.com/22656813/39833915-1e027436-53d4-11e8-8cfd-d1f746315873.png)
 
